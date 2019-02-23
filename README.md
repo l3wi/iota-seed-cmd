@@ -2,6 +2,8 @@
 
 Simple script that lets you print a seed & QR code from `/dev/urandom` in the command line.
 
+![GIF of operation](https://i.imgur.com/oesukxU.gif)
+
 **DON'T trust this code blindly. Look at every file in this repo to make sure its not malicious**
 
 ### How to use:
